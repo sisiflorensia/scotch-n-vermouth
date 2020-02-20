@@ -1,24 +1,25 @@
-# README
+# Scotch 'n Vermouth V.2.0
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+This is an enhanced version of [Scotch 'n Vermouth V.1](http://scotch-n-vermouth.herokuapp.com/).
 
-Things you may want to cover:
+## Additional Features
+- Full homepage design
+- Responsive page
+- Card hover effect
+- Drinking games
+- AJAX Search
+- Allow login for returning user + their favorite recipe
+- API for the recipe?
 
-* Ruby version
+## [User Flow](#)
+In progress via Whimsical.
 
-* System dependencies
+## [DB Schema](#)
+In progress.
 
-* Configuration
+## Tools & Programming Languages
+- Ruby on Rails
+- HTML/CSS with vanilla Bootstrap
+- Vanilla JS/ES6
+- Heroku as a host
 
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
