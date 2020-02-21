@@ -12,7 +12,7 @@ This is an enhanced version of [Scotch 'n Vermouth V.1](http://scotch-n-vermouth
 - API for the recipe?
 
 ## [User Flow](#)
-In progress via Whimsical.
+![User flow for release 1 & 2](user_flow.png)
 
 ## [DB Schema](#)
 In progress.
