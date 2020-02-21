@@ -11,7 +11,7 @@ This is an enhanced version of [Scotch 'n Vermouth V.1](http://scotch-n-vermouth
 - Allow login for returning user + their favorite recipe
 - API for the recipe?
 
-## [User Flow](#)
+## [User Flow](https://whimsical.com/7ptA8YBSFaAKE24fPPAyam#2Ux7TurymN46Cvf7MAn1)
 ![User flow for release 1 & 2](user_flow.png)
 
 ## [DB Schema](#)
