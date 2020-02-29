@@ -3,7 +3,8 @@
 This is an enhanced version of [Scotch 'n Vermouth V.1](http://scotch-n-vermouth.herokuapp.com/).
 
 ## Additional Features
-- Full homepage design
+- Minor front-end redesign
+- Integrated landing page & index page
 - Responsive page
 - Card hover effect
 - Drinking games
@@ -18,8 +19,7 @@ This is an enhanced version of [Scotch 'n Vermouth V.1](http://scotch-n-vermouth
 ![Relational database for release 1 & 2](db_schema.png)
 
 ## Tools & Programming Languages
-- Ruby on Rails
+- Ruby on Rails (5.2.4.1)
 - HTML/CSS with vanilla Bootstrap
 - Vanilla JS/ES6
-- Heroku as a host
-
+- Heroku PaaS on AWS
