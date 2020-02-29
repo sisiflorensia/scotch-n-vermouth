@@ -64,3 +64,4 @@ gem 'simple_form'
 gem "rack", ">= 2.0.8"
 gem 'devise'
 gem 'omniauth', ">= 1.0.0"
+gem 'dotenv-rails', groups: [:development, :test]
