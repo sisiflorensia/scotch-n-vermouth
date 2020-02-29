@@ -62,6 +62,9 @@ gem 'autoprefixer-rails'
 gem 'font-awesome-sass', '~> 5.6.1'
 gem 'simple_form'
 gem "rack", ">= 2.0.8"
+
 gem 'devise'
 gem 'omniauth', ">= 1.0.0"
+
 gem 'dotenv-rails', groups: [:development, :test]
+gem 'cloudinary', '~> 1.12.0'

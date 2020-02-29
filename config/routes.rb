@@ -1,6 +1,6 @@
 Rails.application.routes.draw do
   devise_for :users
-  root to: 'coktails#index'
+  root to: 'cocktails#index'
   get 'search', to: 'cocktails#search', as: :search
   resources :cocktails, except: :index do
     # Doses: new & index are in the show page. Edit & update are not allowed
