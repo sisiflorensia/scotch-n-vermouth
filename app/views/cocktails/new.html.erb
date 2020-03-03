@@ -1,1 +1,9 @@
-new.html.erb
+<div class="container">
+  <h2 class="head text-center">Create new cocktail</h2>
+  <div class="row">
+    <div class="col-md-8 card-product justify-content-center my-3 mx-auto" style="background-image: linear-gradient(rgba(0,0,0,0.3), rgba(0,0,0,0.3)),
+    url(https://images.unsplash.com/photo-1560508180-03f285f67ded?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=800&q=60)">
+      <%= render 'form', cocktail: @cocktail %>
+    </div>
+  </div>
+</div>

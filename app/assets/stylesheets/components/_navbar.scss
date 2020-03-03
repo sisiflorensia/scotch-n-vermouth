@@ -1,12 +1,46 @@
 .navbar-lewagon {
   justify-content: space-between;
-  background: white;
+  background: transparent;
+  padding: 1em 4em;
+  transition: 0.7s background-color ease;
+}
+
+.navbar-lewagon-light {
+  background-color: #f4f4f4;
 }
 
 .navbar-lewagon .navbar-collapse {
   flex-grow: 0;
 }
 
-.navbar-lewagon .navbar-brand img {
-  width: 40px;
+.logo {
+  text-align: center;
+  margin: 20px 0 0 0;
 }
+
+.logo a {
+  font-family: 'Sacramento', cursive;
+  font-size: 72px;
+  color:  #CFB53B;
+  text-decoration: none;
+}
+.logo a:hover {
+  text-decoration: none;
+}
+
+.logo-small {
+  text-align: center;
+  margin: 0;
+  line-height: 1em;
+}
+.logo-small a {
+  font-family: 'Sacramento', cursive;
+  font-size: 42px;
+  color:  #CFB53B;
+  text-decoration: none;
+}
+.logo-small a:hover {
+  text-decoration: none;
+}
+
+

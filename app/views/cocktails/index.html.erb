@@ -1,1 +1,8 @@
-index.html.erb
+<div class="home-banner" style="background-image: linear-gradient(rgba(0,0,0,0.4),rgba(0,0,0,0.4)), url(<%= image_path("home_scotch.jpg") %>)">
+  <div class="home-container">
+    <h1><strong>Great stories never began with a salad</strong></h1>
+    <p>Ready to leave your marks?</p>
+    <%#= link_to "Login", new_user_session_path, class: "btn btn-navbar" %>
+    <%= link_to "Start your legend here", new_user_session_path, class: "btn btn-home" %>
+  </div>
+</div>
